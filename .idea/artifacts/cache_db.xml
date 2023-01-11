@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cache_db">
+    <output-path>$PROJECT_DIR$/out/artifacts/cache_db</output-path>
+    <root id="archive" name="cache_db.jar">
+      <element id="library" level="project" name="info.picocli" />
+      <element id="module-output" name="cache_db" />
+    </root>
+  </artifact>
+</component>
